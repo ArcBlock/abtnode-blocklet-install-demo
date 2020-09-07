@@ -1,2 +1,3 @@
-# install-blocklet-from-github
-Simple test blocklet that supports install from github
+# abtnode-blocklet-install-demo
+
+Demo blocklet contains only static files, and supports install from github
